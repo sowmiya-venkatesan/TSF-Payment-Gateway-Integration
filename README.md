@@ -1,4 +1,4 @@
-# TSF-Payment-Gateway-Integration
+# Payment Gateway Integration
 
 A Web Application used to transfer money as donation.
 
