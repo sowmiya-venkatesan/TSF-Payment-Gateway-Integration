@@ -6,10 +6,10 @@
 A Web Application used to transfer money as donation.
 
 
-Tech Stack used - Front-end : HTML, CSS
+Tech Stack used - Front-end : HTML, CSS, For payment gateway : Razorpay is used.
 
 
-Flow of the Website: Home Page > Project > Donate > Payment through Razopay > Sucessfull Transaction > Check Mail Inbox for Receipt
+Flow of the Website: Home Page > Project > Donate > Payment through Razorpay > Sucessfull Transaction > Check Mail Inbox for Receipt
 
 
 Payment tab have basic fields such as name, email & mobile number
