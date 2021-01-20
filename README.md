@@ -1,19 +1,13 @@
 # Payment Gateway Integration
 
 
-
-
 A Web Application used to transfer money as donation.
 
+Tech Stack used - Front-end: HTML, CSS, For payment gateway: Razorpay is used.
 
-Tech Stack used - Front-end : HTML, CSS, For payment gateway : Razorpay is used.
+The flow of the Website: Home Page - Project - Donate -Payment through Razorpay - Successful Transaction - Check Mail Inbox for Receipt
 
-
-Flow of the Website: Home Page > Project > Donate > Payment through Razorpay > Sucessfull Transaction > Check Mail Inbox for Receipt
-
-
-Payment tab have basic fields such as name, email & mobile number
-
+The payment tab have basic fields such as name, email & mobile number
 
 For demo card use
 
@@ -26,8 +20,11 @@ Card Holder's Name:- Any
 CVV:- Any
 
 
+
+
+
 Made by Sowmiya V
 
-Web Developement and Design Intern - The Sparks Foundation
+Web Development and Design Intern - The Sparks Foundation
 
 Task 3 - Payment Gateway Integration
